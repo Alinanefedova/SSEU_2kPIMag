@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumTernarOperator\MaximumTernarOperator\bin\Debug\MaximumTernarOperator.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumTernarOperator\MaximumTernarOperator\bin\Debug\MaximumTernarOperator.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumTernarOperator\MaximumTernarOperator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumTernarOperator\MaximumTernarOperator\obj\Debug\MaximumTernarOperator.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumTernarOperator\MaximumTernarOperator\obj\Debug\MaximumTernarOperator.pdb
