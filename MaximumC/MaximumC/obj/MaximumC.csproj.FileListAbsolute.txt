@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumC\MaximumC\bin\Debug\MaximumC.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumC\MaximumC\bin\Debug\MaximumC.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumC\MaximumC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumC\MaximumC\obj\Debug\MaximumC.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumC\MaximumC\obj\Debug\MaximumC.pdb
