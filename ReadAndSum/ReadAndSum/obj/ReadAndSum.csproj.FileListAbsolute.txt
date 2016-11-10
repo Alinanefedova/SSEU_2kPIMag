@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\ReadAndSum\ReadAndSum\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\ReadAndSum\ReadAndSum\bin\Debug\ReadAndSum.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\ReadAndSum\ReadAndSum\bin\Debug\ReadAndSum.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\ReadAndSum\ReadAndSum\obj\Debug\ReadAndSum.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\ReadAndSum\ReadAndSum\obj\Debug\ReadAndSum.pdb
