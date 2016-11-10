@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\helloword\helloword\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\helloword\helloword\bin\Debug\helloword.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\helloword\helloword\bin\Debug\helloword.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\helloword\helloword\obj\Debug\helloword.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\helloword\helloword\obj\Debug\helloword.pdb
