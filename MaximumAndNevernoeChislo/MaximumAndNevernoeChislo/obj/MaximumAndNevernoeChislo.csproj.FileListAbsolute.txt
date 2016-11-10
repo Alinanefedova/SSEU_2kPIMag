@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumAndNevernoeChislo\MaximumAndNevernoeChislo\bin\Debug\MaximumAndNevernoeChislo.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumAndNevernoeChislo\MaximumAndNevernoeChislo\bin\Debug\MaximumAndNevernoeChislo.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumAndNevernoeChislo\MaximumAndNevernoeChislo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumAndNevernoeChislo\MaximumAndNevernoeChislo\obj\Debug\MaximumAndNevernoeChislo.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\MaximumAndNevernoeChislo\MaximumAndNevernoeChislo\obj\Debug\MaximumAndNevernoeChislo.pdb
