@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\ConsoleCalc\ConsoleCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.pdb
