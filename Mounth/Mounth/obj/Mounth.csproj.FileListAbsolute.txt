@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\Mounth\Mounth\bin\Debug\Mounth.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\Mounth\Mounth\bin\Debug\Mounth.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\Mounth\Mounth\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\Mounth\Mounth\obj\Debug\Mounth.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\Mounth\Mounth\obj\Debug\Mounth.pdb
