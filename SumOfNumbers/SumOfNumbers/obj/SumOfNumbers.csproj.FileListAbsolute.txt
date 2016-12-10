@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SSEU_2kPIMag\SumOfNumbers\SumOfNumbers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSEU_2kPIMag\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\user\Desktop\SSEU_2kPIMag\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\user\Desktop\SSEU_2kPIMag\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb
