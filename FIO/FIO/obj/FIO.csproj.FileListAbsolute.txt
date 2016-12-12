@@ -1,0 +1,5 @@
+C:\Users\Masha\Desktop\SSEU_2kPIMag\FIO\FIO\bin\Debug\FIO.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\FIO\FIO\bin\Debug\FIO.pdb
+C:\Users\Masha\Desktop\SSEU_2kPIMag\FIO\FIO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Masha\Desktop\SSEU_2kPIMag\FIO\FIO\obj\Debug\FIO.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\FIO\FIO\obj\Debug\FIO.pdb
