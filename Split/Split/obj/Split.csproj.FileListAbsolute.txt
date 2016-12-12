@@ -1,0 +1,5 @@
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Split\Split\bin\Debug\Split.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Split\Split\bin\Debug\Split.pdb
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Split\Split\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Split\Split\obj\Debug\Split.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Split\Split\obj\Debug\Split.pdb
