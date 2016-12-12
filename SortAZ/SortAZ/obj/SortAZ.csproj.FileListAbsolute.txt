@@ -1,0 +1,5 @@
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortAZ\SortAZ\bin\Debug\SortAZ.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortAZ\SortAZ\bin\Debug\SortAZ.pdb
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortAZ\SortAZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortAZ\SortAZ\obj\Debug\SortAZ.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortAZ\SortAZ\obj\Debug\SortAZ.pdb
