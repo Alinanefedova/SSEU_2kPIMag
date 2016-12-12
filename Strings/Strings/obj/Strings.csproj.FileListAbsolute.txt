@@ -1,0 +1,5 @@
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Strings\Strings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\Strings\Strings\obj\Debug\Strings.pdb
