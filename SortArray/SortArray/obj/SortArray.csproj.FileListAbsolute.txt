@@ -1,0 +1,5 @@
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortArray\SortArray\bin\Debug\SortArray.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortArray\SortArray\bin\Debug\SortArray.pdb
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortArray\SortArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortArray\SortArray\obj\Debug\SortArray.exe
+C:\Users\Masha\Desktop\SSEU_2kPIMag\SortArray\SortArray\obj\Debug\SortArray.pdb
