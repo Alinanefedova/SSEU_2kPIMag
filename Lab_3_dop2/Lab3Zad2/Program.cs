@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
  
- namespace Lab_3_dop2
+ namespace Lab3Zad2
  {
      class Program
      {
